@@ -9,7 +9,7 @@ Radi na Windows 10 i 11 (64-bit).
 
 ## Preuzimanje
 
-- **[Transkriptor_Windows.zip]([../../releases/download/v1.0/Transkriptor_1.0_Windows.zip)**
+- **[Transkriptor_Windows.zip]([../../releases/download/v1.0/Transkriptor_1.0_Windows.zip])**
   — sam program, obavezno (oko 300–400 MB)
 - [Transkriptor_GPU_dodatak.zip](../../releases/download/v1.0/Transkriptor_1.0_Windows_GPU_dodatak.zip)
   — opciono, samo za računare sa NVIDIA grafičkom karticom (oko 1,3 GB)
